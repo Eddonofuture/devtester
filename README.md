@@ -20,7 +20,7 @@ Utilizando esta estructura base, se solicita lo siguiente:
 
 * Crear archivo .gitignore ad-hoc al proyecto react-native
 * El proyecto tiene agregada la librería *react-native-navigation*
-* Usando la librería anterior, generar un stack-navigator que conste de 3 screens: Step 1, Step 3 y Step 3
+* Usando la librería anterior, generar un stack-navigator que conste de 3 screens: Step 1, Step 2 y Step 3
 * Step 1: debe ser la screen por defecto y contener un input de texto (name) y un botón para guardar el texto introducido en el input. El botón debe ser redondeado y usar una gradiente de fondo de 2 colores (a elección del desarrollador).
 * Step 2: debe mostrar una imagen aleatoria desde la [API de NASA](https://api.nasa.gov/) y dar la bienvenida al usuario, utilizando el texto ingresado en el input de Step 1.
 * Step 2: debe contener una lista desplegable que muestre 20 especies de pez, usando la [API de Fishbase](https://fishbaseapi.readme.io/docs/species)
